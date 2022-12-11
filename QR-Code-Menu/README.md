@@ -1,5 +1,9 @@
 # Frontend Mentor - QR code component
 
+Live: https://leafy-brioche-fd0292.netlify.app/
+
+
+
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
